@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Items</string>
+
+    <!-- Label for overflow menu option that inserts fake item data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all items data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+    <!-- Title text for the empty view, which describes the empty shelf image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit empty here&#8230;</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add an items [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+
+    <!-- Title for the activity to add a new items [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_item">Add an Item</string>
+
+    <!-- Title for the activity to edit an existing items [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+
+    <!-- Label for editor menu option to save items and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current items [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Toast message in editor when new items has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_item_successful">Item saved</string>
+
+    <!-- Toast message in editor when new items has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_item_failed">Error with saving item</string>
+
+    <!-- Toast message in editor when current item was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_item_successful">Item updated</string>
+
+    <!-- Toast message in editor when current item has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_item_failed">Error with updating item</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Text for Sell Button [CHAR LIMIT=20] -->
+    <string name="sell">Sell 1</string>
+
+    <!-- Dialog button text for the option to keep editing the current items [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current item was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_item_successful">Item deleted</string>
+
+    <!-- Toast message in editor when current item has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_item_failed">Error with deleting item</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current items [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this item?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current items [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current item [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for name category in the editor [CHAR LIMIT=30] -->
+    <string name="category_name">Name</string>
+
+    <!-- Label for type information in the editor [CHAR LIMIT=30] -->
+    <string name="category_type">Type</string>
+
+    <!-- Label for price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price ($)</string>
+
+    <!-- Label for quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_item_name">Name</string>
+
+    <!-- Text hint for price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_item_price">Price</string>
+
+    <!-- Text hint for quantity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_item_quantity">Quantity</string>
+
+    <!-- Label for dropdown menu option if the item's type is unknown [CHAR LIMIT=20] -->
+    <string name="type_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the item is food [CHAR LIMIT=20] -->
+    <string name="type_food">Food</string>
+
+    <!-- Label for dropdown menu option if the item is clothing [CHAR LIMIT=20] -->
+    <string name="type_clothing">Clothing</string>
+
+    <!-- Text for order button [CHAR LIMIT=20] -->
+    <string name="order">Order More</string>
+
+    <!-- Text for decreasing quantity button [CHAR LIMIT=20] -->
+    <string name="decQuantity">-</string>
+
+    <!-- Text for increasing quantity button [CHAR LIMIT=20] -->
+    <string name="incQuantity">+</string>
+
+    <!-- Text for image button [CHAR LIMIT=20] -->
+    <string name="add_image">Add Picture</string>
+
+</resources>
